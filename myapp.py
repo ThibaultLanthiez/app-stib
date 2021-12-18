@@ -12,7 +12,7 @@ st.write("""
 
 @st.cache 
 def import_data_q3():
-    return pd.read_csv('./data_sort_speed.csv', index_col=0)
+    return pd.read_csv('data_sort_speed.csv', index_col=0)
 
 add_selectbox = st.sidebar.selectbox(
     "Choose",
