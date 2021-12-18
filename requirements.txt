@@ -60,7 +60,6 @@ folium==0.11.0
 fsspec==0.5.2
 future==0.18.2
 gast==0.2.2
-GDAL==2.3.3
 geographiclib==1.52
 geopandas==0.6.1
 geopy==2.2.0
