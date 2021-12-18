@@ -1,8 +1,8 @@
 geopandas==0.6.1
 geopy==2.2.0
-numpy==1.9.3
+numpy
 numpydoc==0.9.1
-pandas==0.25.1
+pandas
 pandocfilters==1.4.2
 path.py==12.0.1
 pathlib2==2.3.5
