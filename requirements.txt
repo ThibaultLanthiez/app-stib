@@ -242,9 +242,6 @@ swifter==0.301
 sympy==1.4
 tables==3.5.2
 tblib==1.4.0
-tensorboard==2.7.0
-tensorboard-data-server==0.6.1
-tensorboard-plugin-wit==1.6.0
 tensorflow==2.7.0
 tensorflow-estimator==2.7.0
 tensorflow-io-gcs-filesystem==0.22.0
